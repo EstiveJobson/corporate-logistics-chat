@@ -9,7 +9,7 @@ Corporate logistics chat — university group project.
 - [@bernardomam](https://github.com/bernardomam)
 - [@joaogabriel2405](https://github.com/joaogabriel2405)
 - [@igorsales-dev](https://github.com/igorsales-dev)
-
+- [@joaovictorlordelo-dev(https://github.com/joaovictorlordelo-dev) 
 ## Getting started
 
 TBD
